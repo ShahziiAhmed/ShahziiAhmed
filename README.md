@@ -2,7 +2,7 @@
 
 [![Upwork Badge](https://img.shields.io/badge/Upwork-Top%20Rated-brightgreen?logo=upwork&logoColor=white)](mailto:shahzaibahmed@gmail.com)
 [![Fiverr Badge](https://img.shields.io/badge/Fiverr-Level%202%20Seller-00b22d?logo=fiverr&logoColor=white)](mailto:shahzaibahmed@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahzaib-ahmed-4aa74210a/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-ShahziiAhmed-181717?logo=github)](https://github.com/ShahziiAhmed)
 
 ---
@@ -21,7 +21,7 @@ I'm a **results-driven Flutter Developer** with 5+ years of hands-on experience 
 ## 🛠️ Tech Stack
 
 - **Languages & Frameworks:** Flutter, Dart, Node.js, Express
-- **Cloud & Backend:** Firebase (Auth, Firestore, Messaging, Analytics)
+- **Cloud & Backend:** Firebase (Auth, Firestore, Cloud Functions, Messaging, Analytics)
 - **State Management:** Provider, Riverpod, GetIt
 - **Payments:** Stripe Integration
 - **Tools:** Git, GitHub, Fastlane, Codemagic, GitHub Actions
@@ -32,7 +32,7 @@ I'm a **results-driven Flutter Developer** with 5+ years of hands-on experience 
 
 ## 🌱 Entrepreneurial Experience
 
-**Founder/Developer – Home Food Delivery Platform**  
+**Founder/Developer – Home Food Delivery Platform - PITB**  
 Built and managed a platform connecting home chefs with customers; led a team of 6, handled all technical aspects, and facilitated 1000+ orders with 50+ home chefs.  
 *Paused operations during COVID-19.*
 
@@ -46,17 +46,20 @@ Built and managed a platform connecting home chefs with customers; led a team of
   _Flutter & Firebase, Stripe, Localization, CI/CD, Confidential project_
 - **Handyman App (AU Market)**  
   _Dual app (User/Provider), modular architecture, release cycle management_
+- **Baby Planet (PK)**  
+  _Flutter & Shopify cross platform app_
 - **Loyley App (Discontinued)**  
-  _Affiliate marketing platform, long-term maintenance_
+  _Affiliate marketing platform, long-term development & maintenance_
 
 ---
 
 ## 💬 What Clients Say
 
-> "Strong grip on Flutter. Very responsive and quick to understand requirements." — Tanzil, Upwork  
 > "Always available, attentive, and delivers great quality work on time." — Jafer, Upwork  
 > "Exceeded expectations with exceptional code expertise." — Rob, Fiverr  
-> "Highly professional, completed my project flawlessly." — Sebghatullah, Fiverr
+> “Very exceptional gentleman. From A-Z, displayed exceptional work ethic, communication and attention to detail” — Studiocx (SA), Fiverr
+> “Shahzaib Ahmed truly impressed with his PROFESSIONALISM and keen attention to detail. The collaboration was seamless, thanks to his prompt responsiveness and willingness to cooperate, making the entire process a breeze. Highly recommended! 👍” — Heang Meng Horng (CB), Fiverr  
+
 
 ---
 
@@ -80,8 +83,8 @@ Superior University (2016)
 ## 📫 Let's Connect
 
 - Email: [shahzaibahmed@gmail.com](mailto:shahzaibahmed@gmail.com)
-- LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
-- GitHub: [github.com/ShahziiAhmed](https://github.com/ShahziiAhmed)
+- LinkedIn: [linkedin.com/in/shahzaib-ahmed](https://www.linkedin.com/in/shahzaib-ahmed-4aa74210a/)
+- GitHub: [github.com/ShahzaibAhmed](https://github.com/ShahziiAhmed)
 
 ---
 
