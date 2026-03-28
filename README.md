@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shahzaib Ahmed
 
-[![Upwork Badge](https://img.shields.io/badge/Upwork-Top%20Rated-brightgreen?logo=upwork&logoColor=white)](mailto:shahzaibahmed@gmail.com)
-[![Fiverr Badge](https://img.shields.io/badge/Fiverr-Level%202%20Seller-00b22d?logo=fiverr&logoColor=white)](mailto:shahzaibahmed@gmail.com)
+[![Upwork Badge](https://img.shields.io/badge/Upwork-Top%20Rated-brightgreen?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~015fc5650069e03730)
+[![Fiverr Badge](https://img.shields.io/badge/Fiverr-Level%202%20Seller-00b22d?logo=fiverr&logoColor=white)](https://www.fiverr.com/iamchef?public_mode=true)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahzaib-ahmed-4aa74210a/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-ShahziiAhmed-181717?logo=github)](https://github.com/ShahziiAhmed)
 
